@@ -44,7 +44,7 @@ export default function LandingPage() {
       <div id="hero" data-section="hero">
         <HeroLogoBillboardSplit
           logoText="ROAST & TOAST"
-          description="Specialty Coffee. Crafted with Care in Al Aziziyah. 4.9-Star Rated Local Favorite • Open Until 3 AM"
+          description="Late-night specialty coffee inside Ali Bin Ali Hospital in Al Aziziyah. 4.9★ Rating • Open Until 3 AM • SAR 1-20"
           background={{ variant: "plain" }}
           buttons={[
             { text: "Call Now", href: "tel:+966XXXXXXXXX" },
@@ -144,7 +144,7 @@ export default function LandingPage() {
 
       <div id="location" data-section="location">
         <ContactText
-          text="Located inside Ali Bin Ali Hospital in Al Aziziyah. Easy to find in the heart of healthcare district. Open until 3 AM for your convenience."
+          text="Visit us inside Ali Bin Ali Hospital at 7469 4250 Mohammad Rashid Rida, Al Aziziyah, Riyadh 14514. Get directions or call us anytime—we're open until 3 AM."
           animationType="entrance-slide"
           buttons={[
             {

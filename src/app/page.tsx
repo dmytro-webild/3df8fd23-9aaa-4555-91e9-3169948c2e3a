@@ -127,17 +127,17 @@ export default function LandingPage() {
           topMarqueeDirection="left"
           testimonials={[
             {
-              id: "1",              name: "أحمد محمد",              handle: "@ahmadm",              testimonial: "المكان رايق والقهوة في الراس وأسعاره حلوة. الخدمة ودودة وتجربة ممتعة.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "Ahmad Muhammad"},
+              id: "1",              name: "أحمد محمد",              handle: "@ahmadm",              testimonial: "المكان رايق والقهوة في الراس وأسعاره حلوة. الخدمة ودودة وتجربة ممتعة.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=1",              imageAlt: "Ahmad Muhammad"},
             {
-              id: "2",              name: "Sarah Johnson",              handle: "@sarahj",              testimonial: "Best specialty coffee in Riyadh! Perfect location inside the hospital. Open late is a lifesaver for night shifts.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "Sarah Johnson"},
+              id: "2",              name: "Sarah Johnson",              handle: "@sarahj",              testimonial: "Best specialty coffee in Riyadh! Perfect location inside the hospital. Open late is a lifesaver for night shifts.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=2",              imageAlt: "Sarah Johnson"},
             {
-              id: "3",              name: "فاطمة الدعيع",              handle: "@fatimaad",              testimonial: "جودة عالية جداً بأسعار معقولة. الموظفين لطفاء ودائماً يرحبون بك.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "Fatima Al-Doaea"},
+              id: "3",              name: "فاطمة الدعيع",              handle: "@fatimaad",              testimonial: "جودة عالية جداً بأسعار معقولة. الموظفين لطفاء ودائماً يرحبون بك.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=3",              imageAlt: "Fatima Al-Doaea"},
             {
-              id: "4",              name: "Mohammad Ali",              handle: "@mohammadali",              testimonial: "The perfect late-night spot. Cozy atmosphere, excellent coffee, and genuinely friendly staff. Highly recommend!",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "Mohammad Ali"},
+              id: "4",              name: "Mohammad Ali",              handle: "@mohammadali",              testimonial: "The perfect late-night spot. Cozy atmosphere, excellent coffee, and genuinely friendly staff. Highly recommend!",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=4",              imageAlt: "Mohammad Ali"},
             {
-              id: "5",              name: "ليلى عبدالرحمن",              handle: "@laylaabdulrahman",              testimonial: "مشهورة عند الطلاب والموظفين. القهوة حقيقية والسعر مناسب. مكان آمن وهادئ.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "Layla Abdulrahman"},
+              id: "5",              name: "ليلى عبدالرحمن",              handle: "@laylaabdulrahman",              testimonial: "مشهورة عند الطلاب والموظفين. القهوة حقيقية والسعر مناسب. مكان آمن وهادئ.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=5",              imageAlt: "Layla Abdulrahman"},
             {
-              id: "6",              name: "David Smith",              handle: "@davidsmith",              testimonial: "Found this gem near the hospital. Consistently excellent coffee, modern vibe, and always respectful service.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg",              imageAlt: "David Smith"},
+              id: "6",              name: "David Smith",              handle: "@davidsmith",              testimonial: "Found this gem near the hospital. Consistently excellent coffee, modern vibe, and always respectful service.",              imageSrc: "http://img.b2bpic.net/free-photo/alone-specialist-handsome-daydreaming-collar_1262-870.jpg?_wi=6",              imageAlt: "David Smith"},
           ]}
         />
       </div>

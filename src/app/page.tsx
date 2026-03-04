@@ -144,7 +144,7 @@ export default function LandingPage() {
 
       <div id="location" data-section="location">
         <ContactText
-          text="Visit us inside Ali Bin Ali Hospital at 7469 4250 Mohammad Rashid Rida, Al Aziziyah, Riyadh 14514. Get directions or call us anytime—we're open until 3 AM."
+          text="Located inside Ali Bin Ali Hospital in Al Aziziyah. Easy to find in the heart of healthcare district. Open until 3 AM for your convenience."
           animationType="entrance-slide"
           buttons={[
             {
